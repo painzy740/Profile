@@ -4,10 +4,10 @@ export const Projects = [
     name: 'Website Gabut',
     slug: 'sgcid',
     img: 'sgcid',
-    demo: 'https://menyala.vercel.app',
-    sourceCode: 'https://menyala.vercel.app',
+    demo: 'https://painzysite.biz.id',
+    sourceCode: 'https://painzysite.biz.id',
     description:
-      'Sebuah Website Gabut Yang Fi penuhi Kata Kata (quotes) para creator Bot WhatsApp !!',
+      'Sebuah Website Gabut Yang berisi chat ai !!',
   },
   {
     id: 3,
