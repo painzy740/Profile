@@ -26,7 +26,7 @@ const About = () => {
 
         <motion.div {...ContentAnimation} className="relative order-1 my-10 w-3/4 text-justify md:order-2 md:my-0 md:w-1/4">
           <p className="text-md font-light text-primary-light">
-            {`Hello! My name is N-ꓘiuuR, but you can call me Kyuu, or whatever you like. I’m a beginner currently learning JavaScript, based in South Sulawesi, Indonesia. As a beginner, I’m interested in JavaScript because of its simplicity and its potential for creating engaging user experiences. I enjoy learning and exploring ways to build interfaces that are simple yet beautiful.`}
+            {`Hello! My name is Painzy, but you can call me Pain, or whatever you like. I’m a beginner currently learning JavaScript, based in Java Jakarta, Indonesia. As a beginner, I’m interested in JavaScript because of its simplicity and its potential for creating engaging user experiences. I enjoy learning and exploring ways to build interfaces that are simple yet beautiful.`}
           </p>
         </motion.div>
       </section>
